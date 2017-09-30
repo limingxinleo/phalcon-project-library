@@ -1,5 +1,5 @@
 {
-    "name": "limingxinleo/pphalcon-project-library",
+    "name": "limingxinleo/phalcon-project-library",
     "description": "服务于limingxinleo/phalcon-project的依赖集合",
     "type": "library",
     "license": "MIT",
