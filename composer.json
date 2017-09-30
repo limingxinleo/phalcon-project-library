@@ -1,0 +1,23 @@
+{
+    "name": "limingxinleo/pphalcon-project-library",
+    "description": "服务于limingxinleo/phalcon-project的依赖集合",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "李铭昕",
+            "email": "715557344@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+        "ext-phalcon": "^3.0",
+        "limingxinleo/x-phalcon-console": "^0.0.5",
+        "limingxinleo/x-phalcon-logger": "^0.0.1",
+        "limingxinleo/x-redis": "^0.0.1",
+        "limingxinleo/x-phalcon-db": "^0.0.1",
+        "limingxinleo/x-console-color": "^0.0.1",
+        "limingxinleo/support-str": "^1.0.1",
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
