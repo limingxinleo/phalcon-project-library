@@ -14,7 +14,7 @@
         "ext-phalcon": "^3.0",
         "limingxinleo/x-phalcon-helper": "^0.0.1",
         "limingxinleo/x-phalcon-console": "^0.0.6",
-        "limingxinleo/x-phalcon-logger": "^0.0.1",
+        "limingxinleo/x-phalcon-logger": "^1.0.0",
         "limingxinleo/x-redis": "^0.0.1",
         "limingxinleo/x-phalcon-db": "^0.0.1",
         "limingxinleo/x-console-color": "^0.0.1",
