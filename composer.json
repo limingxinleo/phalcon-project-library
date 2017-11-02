@@ -18,7 +18,7 @@
         "limingxinleo/x-redis": "^0.0.1",
         "limingxinleo/x-phalcon-db": "^0.0.1",
         "limingxinleo/x-console-color": "^1.0.0",
-        "limingxinleo/x-phalcon-middleware": "^0.1.0",
+        "limingxinleo/x-phalcon-middleware": "^0.1.1",
         "limingxinleo/support-str": "^1.0.1",
         "limingxinleo/support-arr": "^1.0.4",
         "vlucas/phpdotenv": "^2.4"
