@@ -22,6 +22,7 @@
         "limingxinleo/x-phalcon-router": "^0.0.1",
         "limingxinleo/support-str": "^1.0.3",
         "limingxinleo/support-arr": "^1.0.4",
+        "limingxinleo/x-support-file": "^0.0.1",
         "vlucas/phpdotenv": "^2.4"
     }
 }
