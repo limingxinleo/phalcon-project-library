@@ -24,7 +24,6 @@
         "limingxinleo/support-arr": "^1.0.4",
         "limingxinleo/x-support-file": "^1.0",
         "limingxinleo/x-phalcon-request": "^1.0",
-        "limingxinleo/x-swoole-queue": "^1.0",
-        "vlucas/phpdotenv": "^2.4"
+        "limingxinleo/x-swoole-queue": "^1.0"
     }
 }
